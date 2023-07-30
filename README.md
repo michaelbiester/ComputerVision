@@ -2,7 +2,7 @@
 
 ## Overview 
 
-motivation
+This repository serves to explore some image processing topics with Ipython notebooks
 
 ## Notebooks
 
